@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cRqxUY4LkqLAtZIrAyT6Dwo7GyLn3xwqnTLunGoLMaU=",
+  "Source": "MiniRTLS.API",
+  "BasePath": "_content/MiniRTLS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
